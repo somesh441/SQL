@@ -1,0 +1,8 @@
+SELECT n,
+    CASE
+        WHEN P IS NULL THEN "Root"
+        when N not IN (SELECT DISTINCT P FROM BST where p is not null) then "Leaf"
+        else "Inner"
+    end as "node_type"
+from bst
+ORDER BY N;
