@@ -1,4 +1,4 @@
-Problem link: https://www.hackerrank.com/challenges/binary-search-tree-1/submissions/code/416230857
+Problem link: https://www.hackerrank.com/challenges/binary-search-tree-1/problem
 
 1.Problem Statement
 
